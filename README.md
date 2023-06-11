@@ -1,1 +1,1 @@
-# Geophysics-solutions
+# Magnetic 2D modelling
