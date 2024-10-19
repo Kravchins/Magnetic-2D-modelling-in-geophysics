@@ -39,7 +39,7 @@ Polygon = [45,10;55,10;65,20;60,30;50,35;40,30;35,20]; % irregular shape
     % (from Fundamentals of Geophysics, 2020, Lowrie and Fichtner,
     % Cambridge Press, https://www.cambridge.org/core_title/gb/535177)
     bsus    = 0.0008;         % Body MS (SI units)
-    inm     = 56000e-9;    % Strength of Earth's field for the area (nT)
+    inm     = 56000e-9;    % Strength of Earth's field for the area (T)
     % For example, inm = 56157.4 (nT) = 56157.4e-9 (T); T = kg⋅s−2⋅A−1
  
     mu_0 = 4*pi*1e-7; % Permiability of the free space = 1.25663706 × 10-6 (m⋅kg⋅s−2⋅A−2)
